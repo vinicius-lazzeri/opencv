@@ -4,6 +4,7 @@
         "multitracker"
     ],
     "cSpell.ignoreWords": [
-        "azul"
+        "azul",
+        "imread"
     ]
 }
